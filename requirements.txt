@@ -1,0 +1,24 @@
+# Environment and file management
+python-dotenv
+boto3
+pathlib
+
+# Data processing
+pandas
+pyarrow
+
+# Machine learning
+scikit-learn
+joblib
+
+# PostgreSQL
+psycopg2-binary
+
+# PySpark
+pyspark
+
+# API
+fastapi
+pydantic
+uvicorn
+
